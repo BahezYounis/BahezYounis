@@ -1,38 +1,53 @@
 # 👋 Hello, I'm Bahez Younis
 
-**Backend Developer | Java Spring Boot Enthusiast | Full-Stack Problem Solver**
+**Full-Stack Developer | 5+ Years PHP/Laravel Experience | Java Spring Boot Specialist | Mobile App Developer**
 
-Welcome to my GitHub! I'm passionate about building robust backend systems and exploring modern Java frameworks. I focus on creating scalable, maintainable code and mastering enterprise-level development practices.
+Welcome to my GitHub! I'm a passionate full-stack engineer with extensive experience building enterprise applications. I specialize in backend development with PHP/Laravel and Java Spring Boot, frontend development with React/Inertia.js, and infrastructure optimization with NGINX. I've successfully developed and deployed production apps including FastLink SIM on Google Play Store.
 
 ---
 
 ## 🚀 What I Do
 
-- **Backend Development** with Java and Spring Boot
-- **Full-Stack Solutions** using modern web technologies
-- **System Design** for scalable applications
-- **Database Integration** with JDBC and ORM frameworks
+- **Full-Stack Web Development** with PHP/Laravel and React/Inertia.js
+- **Backend Development** with Java Spring Boot and modern architectures
+- **Mobile App Backend** - FastLink SIM App (Google Play Store)
+- **Server Configuration & Optimization** with NGINX
+- **System Design** for scalable, maintainable applications
+- **Database Integration** with JDBC, ORM frameworks, and SQL optimization
 
 ---
 
 ## 💻 Skills & Technologies
 
 ### Languages
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### Frameworks & Libraries
+### Backend Frameworks
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)
+
+### Frontend & JS Frameworks
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Inertia.js](https://img.shields.io/badge/Inertia.js-9553E9?style=for-the-badge&logo=inertia&logoColor=white)
 
 ### Databases & Tools
-![JDBC](https://img.shields.io/badge/JDBC-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![JDBC](https://img.shields.io/badge/JDBC-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![NGINX](https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=nginx&logoColor=white)
+
+### Build Tools & Dev Tools
+![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)
+![Composer](https://img.shields.io/badge/Composer-885630?style=for-the-badge&logo=composer&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 
 ### IDEs & Editors
+![PhpStorm](https://img.shields.io/badge/PhpStorm-000000?style=for-the-badge&logo=phpstorm&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
@@ -52,7 +67,52 @@ Welcome to my GitHub! I'm passionate about building robust backend systems and e
 
 ---
 
-## 💼 Featured Projects
+## 💼 Professional Experience & Featured Projects
+
+### 🎯 **FastLink SIM Application** - Backend Developer
+**Live on Google Play Store:** [FastLink SIM](https://play.google.com/store/apps/details?id=com.fastlink.fastsim&hl=en)
+
+Mobile SIM management application with robust backend infrastructure.
+
+**What I Built:**
+- RESTful API architecture for mobile app communication
+- User authentication and authorization systems
+- SIM package management and provisioning
+- Real-time data synchronization
+- Payment integration backend
+- Server optimization and scaling
+
+**Tech Stack:**
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00758F?style=flat-square&logo=mysql&logoColor=white)
+![NGINX](https://img.shields.io/badge/NGINX-009639?style=flat-square&logo=nginx&logoColor=white)
+
+---
+
+### 📺 **MyTv+ Platform** - Senior Backend Developer (3+ Years)
+**Role:** Backend Developer & Full-Stack Contributor
+
+Enterprise streaming platform serving thousands of users.
+
+**Key Responsibilities:**
+- Architected and maintained backend API infrastructure
+- Developed user management and authentication systems
+- Built content delivery and streaming optimization
+- Implemented database optimization and caching strategies
+- Led optimization efforts for NGINX server configuration
+- Maintained uptime and system reliability
+- Collaborated with frontend team using React/Inertia.js
+
+**Tech Stack:**
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Inertia.js](https://img.shields.io/badge/Inertia.js-9553E9?style=flat-square&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00758F?style=flat-square&logo=mysql&logoColor=white)
+![NGINX](https://img.shields.io/badge/NGINX-009639?style=flat-square&logo=nginx&logoColor=white)
+
+---
 
 ### 🏢 **[HMS API](https://github.com/BahezYounis/hms-api)** - Human Resource Management System
 A comprehensive REST API for managing human resources operations with enterprise-grade design.
@@ -65,6 +125,7 @@ A comprehensive REST API for managing human resources operations with enterprise
 - Enterprise-grade API design
 - Resource management features
 - RESTful architecture
+- Advanced Spring patterns
 
 ---
 
@@ -79,6 +140,7 @@ Complete learning repository covering all essential backend concepts with Spring
 - Spring Boot fundamentals
 - Backend best practices
 - Complete ecosystem exploration
+- Production-ready patterns
 
 ---
 
@@ -93,6 +155,7 @@ Dynamic CRUD operations with JTE templating engine for full-stack form handling.
 - Modern templating engine
 - Full-stack form handling
 - CRUD operations
+- Server-side rendering
 
 ---
 
@@ -107,64 +170,87 @@ Database connectivity and operations using Spring JDBC framework with optimized 
 - Database layer optimization
 - Connection management
 - Query optimization
+- Performance tuning
 
 ---
 
-## 🛠️ Complete Tech Stack
+## 🛠�� Complete Tech Stack Architecture
 
 ```
 ┌─ Backend Languages
-│  └─ Java (Primary)
+│  ├─ PHP (5+ years)
+│  └─ Java (Current Focus)
 │
-├─ Frameworks & Libraries
+├─ Backend Frameworks
+│  ├─ Laravel (3+ years)
 │  ├─ Spring Boot
-│  ├─ Spring Framework
-│  └─ Apache Maven
+│  └─ Spring Framework
+│
+├─ Frontend & Full-Stack
+│  ├─ React
+│  └─ Inertia.js (Laravel Integration)
+│
+├─ Web Server & Infrastructure
+│  └─ NGINX (Configuration & Optimization)
 │
 ├─ Database & Persistence
-│  ├─ JDBC
+│  ├─ MySQL
 │  ├─ PostgreSQL
-│  └─ MySQL
+│  ├─ JDBC
+│  └─ ORM/Query Builders
 │
 ├─ Architecture Patterns
 │  ├─ REST APIs
 │  ├─ MVC Pattern
-│  └─ Microservices
+│  ├─ Microservices
+│  └─ Full-Stack Web Apps
 │
 └─ Development Tools
    ├─ Git & GitHub
+   ├─ Apache Maven
+   ├─ Composer
+   ├─ npm
+   ├─ PhpStorm
    ├─ IntelliJ IDEA
    └─ VS Code
 ```
 
 ---
 
-## 🎯 Current Learning Goals
+## 🎯 Current Focus & Learning Goals
 
 - 🔭 Mastering Spring Boot microservices architecture
 - 📚 Building scalable REST APIs with advanced patterns
 - 🚀 Exploring cloud deployment (Docker, Kubernetes)
 - 🔄 Understanding reactive programming with Spring WebFlux
 - 💡 Contributing to open-source Spring projects
+- 🌐 Expanding backend expertise across multiple frameworks
+- 📱 Mobile app backend optimization
 
 ---
 
-## 📈 Repository Statistics
+## 📈 Professional Experience Summary
 
-| Repository | Language | Status | Last Update |
+| Platform | Role | Experience | Tech Stack |
 |:---|:---|:---|:---|
-| [HMS API](https://github.com/BahezYounis/hms-api) | Java | Active | Oct 2024 |
-| [Java Spring Full Backend](https://github.com/BahezYounis/java-spring-full-back-end) | Java | Active | Jun 2024 |
-| [JTE CRUD Form](https://github.com/BahezYounis/Jte-Crud-form) | Java | Active | Oct 2024 |
-| [Spring JDBC](https://github.com/BahezYounis/spring-jdbc) | Java | Active | Jul 2024 |
+| **MyTv+ Platform** | Senior Backend Developer | 3+ Years | PHP, Laravel, React, Inertia.js, MySQL, NGINX |
+| **FastLink SIM (Google Play)** | Backend Developer | Production | PHP, Laravel, MySQL, NGINX, Mobile API |
+| **Java Spring Ecosystem** | Full-Stack Developer | Active | Java, Spring Boot, JDBC, PostgreSQL |
+| **Custom Projects** | Developer | Ongoing | Multiple stacks |
 
 ---
 
 ## 🤝 Let's Connect & Collaborate
 
-- 💬 **Open to collaboration** on Java/Spring projects
-- 📧 **Discussion:** Feel free to reach out for backend development talks
+- 💬 **Open to collaboration** on full-stack, backend, and mobile app projects
+- 📧 **Discussion:** Reach out for:
+  - PHP/Laravel architecture discussions
+  - Java/Spring Boot implementations
+  - System design and scalability challenges
+  - NGINX optimization and server configuration
+  - API design and mobile backend development
 - 🔗 **Explore:** Check out my repositories to see my work in action
+- 📱 **Try:** Download and use FastLink SIM app on Google Play Store
 - ⭐ **Support:** If you find my projects useful, consider giving them a star!
 
 ---
@@ -179,20 +265,39 @@ Database connectivity and operations using Spring JDBC framework with optimized 
 
 ---
 
-## 🏆 Goals & Achievements
+## 🏆 Career Goals & Achievements
 
-- [ ] Build enterprise-level microservices architecture
-- [ ] Contribute to major open-source Spring projects
-- [ ] Master cloud deployment technologies
+- ✅ Built and deployed production mobile app (FastLink SIM - Google Play Store)
+- ✅ 3+ years enterprise platform development (MyTv+)
+- ✅ 5+ years PHP/Laravel expertise
+- ✅ Full-stack capabilities (backend, frontend, infrastructure)
+- [ ] Master microservices architecture across ecosystems
+- [ ] Contribute to major open-source projects
+- [ ] Build more production applications
 - [ ] Share knowledge through technical blogs & tutorials
-- [ ] Reach 10+ production-ready projects
-- [ ] Build a strong community following
+- [ ] Achieve 20+ high-quality projects
+- [ ] Build a strong developer community following
+
+---
+
+## 📬 How to Reach Me
+
+- **GitHub:** [@BahezYounis](https://github.com/BahezYounis)
+- **Portfolio:** Check my projects and repositories above
+- **Experience:** 8+ years in web development, system architecture, and backend optimization
 
 ---
 
 <div align="center">
 
 ### Thanks for visiting my profile! 🚀
+
+**I'm always interested in discussing:**
+- Full-stack web development challenges
+- Backend architecture and optimization
+- Mobile app backend solutions
+- Server infrastructure and DevOps
+- Mentorship and knowledge sharing
 
 **If you find my projects helpful, please consider giving them a ⭐ star!**
 
