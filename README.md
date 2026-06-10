@@ -2,7 +2,7 @@
 
 **Full-Stack Developer | 5+ Years PHP/Laravel Experience | Java Spring Boot Specialist | Mobile App Developer**
 
-Welcome to my GitHub! I'm a passionate full-stack engineer with extensive experience building enterprise applications. I specialize in backend development with PHP/Laravel and Java Spring Boot, frontend development with React/Inertia.js, and infrastructure optimization with NGINX. I've successfully developed and deployed production apps including FastLink SIM on Google Play Store.
+Welcome to my GitHub! I'm a passionate full-stack engineer with extensive experience building enterprise applications. I specialize in backend development with PHP/Laravel and Java Spring Boot, frontend development with React/Inertia.js, and infrastructure optimization with NGINX. I've successfully developed and deployed production apps including FastLink SIM.
 
 ---
 
@@ -10,7 +10,6 @@ Welcome to my GitHub! I'm a passionate full-stack engineer with extensive experi
 
 - **Full-Stack Web Development** with PHP/Laravel and React/Inertia.js
 - **Backend Development** with Java Spring Boot and modern architectures
-- **Mobile App Backend** - FastLink SIM App (Google Play Store)
 - **Server Configuration & Optimization** with NGINX
 - **System Design** for scalable, maintainable applications
 - **Database Integration** with JDBC, ORM frameworks, and SQL optimization
@@ -90,7 +89,7 @@ Mobile SIM management application with robust backend infrastructure.
 
 ---
 
-### 📺 **MyTv+ Platform** - Senior Backend Developer (3+ Years)
+### 📺 **MyTv+ Platform** - Backend Developer (3+ Years)
 **Role:** Backend Developer & Full-Stack Contributor
 
 Enterprise streaming platform serving thousands of users.
@@ -114,106 +113,36 @@ Enterprise streaming platform serving thousands of users.
 
 ---
 
-### 🏢 **[HMS API](https://github.com/BahezYounis/hms-api)** - Human Resource Management System
-A comprehensive REST API for managing human resources operations with enterprise-grade design.
+### 🏦 **FIB - First Islamic Bank** - Java Backend Developer (2 Years)
+**Website:** [FIB Iraq Banking System](https://fib.iq/)
 
-**Tech Stack:** 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
-![JDBC](https://img.shields.io/badge/JDBC-ED8B00?style=flat-square&logo=java&logoColor=white)
+Enterprise-level banking application serving customers across Iraq with secure financial transactions and services.
 
-- Enterprise-grade API design
-- Resource management features
-- RESTful architecture
-- Advanced Spring patterns
+**Key Responsibilities:**
+- Developed and maintained robust backend services for banking operations
+- Implemented secure authentication and authorization systems
+- Built transaction processing and payment gateway integrations
+- Designed and optimized database schemas for financial operations
+- Ensured high availability, security, and compliance with banking standards
+- Collaborated with cross-functional teams on financial feature implementations
+- Worked on microservices architecture for scalable banking solutions
 
----
-
-### 📚 **[Java Spring Full Backend](https://github.com/BahezYounis/java-spring-full-back-end)**
-Complete learning repository covering all essential backend concepts with Spring Boot ecosystem.
+**Technologies & Achievements:**
+- Core Banking Systems Development
+- RESTful API design for financial transactions
+- Database optimization for high-volume transactions
+- Security and compliance implementations (Banking Standards)
+- Transaction management and reconciliation systems
+- Integration with payment gateways and external services
+- Performance optimization for mission-critical systems
 
 **Tech Stack:**
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
-
-- Spring Boot fundamentals
-- Backend best practices
-- Complete ecosystem exploration
-- Production-ready patterns
-
----
-
-### 🔄 **[JTE CRUD Form](https://github.com/BahezYounis/Jte-Crud-form)** - Modern Web Forms
-Dynamic CRUD operations with JTE templating engine for full-stack form handling.
-
-**Tech Stack:**
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
-![JTE](https://img.shields.io/badge/JTE-FF6B6B?style=flat-square&logoColor=white)
-
-- Modern templating engine
-- Full-stack form handling
-- CRUD operations
-- Server-side rendering
-
----
-
-### 🗄️ **[Spring JDBC](https://github.com/BahezYounis/spring-jdbc)**
-Database connectivity and operations using Spring JDBC framework with optimized queries.
-
-**Tech Stack:**
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 ![JDBC](https://img.shields.io/badge/JDBC-ED8B00?style=flat-square&logo=java&logoColor=white)
-
-- Database layer optimization
-- Connection management
-- Query optimization
-- Performance tuning
-
----
-
-## 🛠�� Complete Tech Stack Architecture
-
-```
-┌─ Backend Languages
-│  ├─ PHP (5+ years)
-│  └─ Java (Current Focus)
-│
-├─ Backend Frameworks
-│  ├─ Laravel (3+ years)
-│  ├─ Spring Boot
-│  └─ Spring Framework
-│
-├─ Frontend & Full-Stack
-│  ├─ React
-│  └─ Inertia.js (Laravel Integration)
-│
-├─ Web Server & Infrastructure
-│  └─ NGINX (Configuration & Optimization)
-│
-├─ Database & Persistence
-│  ├─ MySQL
-│  ├─ PostgreSQL
-│  ├─ JDBC
-│  └─ ORM/Query Builders
-│
-├─ Architecture Patterns
-│  ├─ REST APIs
-│  ├─ MVC Pattern
-│  ├─ Microservices
-│  └─ Full-Stack Web Apps
-│
-└─ Development Tools
-   ├─ Git & GitHub
-   ├─ Apache Maven
-   ├─ Composer
-   ├─ npm
-   ├─ PhpStorm
-   ├─ IntelliJ IDEA
-   └─ VS Code
-```
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apache-maven&logoColor=white)
 
 ---
 
@@ -291,15 +220,6 @@ Database connectivity and operations using Spring JDBC framework with optimized 
 <div align="center">
 
 ### Thanks for visiting my profile! 🚀
-
-**I'm always interested in discussing:**
-- Full-stack web development challenges
-- Backend architecture and optimization
-- Mobile app backend solutions
-- Server infrastructure and DevOps
-- Mentorship and knowledge sharing
-
-**If you find my projects helpful, please consider giving them a ⭐ star!**
 
 *Happy Coding!* 💻
 
